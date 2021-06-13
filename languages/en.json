@@ -1,0 +1,6 @@
+{
+	"language_name":"English",
+	"some_translation_key":"This is a test sentence.",
+	"some_html_tags":"In this <abbr title=\"Hypertext Markup Language\">HTML</abbr> snippet, <b>tags</b> should be left intact, while <span class=\"myclass\">some attributes</span> (not all of them!) should be translated.",
+	"some_replacement_strings":"Bob has $1 coins, and he can buy $2 bottle(s) of health potion."
+}

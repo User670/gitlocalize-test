@@ -2,5 +2,16 @@
 	"language_name":"English",
 	"some_translation_key":"This is a test sentence.",
 	"some_html_tags":"In this <abbr title=\"Hypertext Markup Language\">HTML</abbr> snippet, <b>tags</b> should be left intact, while <span class=\"myclass\">some attributes</span> (not all of them!) should be translated.",
-	"some_replacement_strings":"Bob has $1 coins, and he can buy $2 bottle(s) of health potion."
+	"some_replacement_strings":"Bob has $1 coins, and he can buy $2 bottle(s) of health potion.",
+	"additional_strings":"This string is added after the initial batch of translations have been completed.",
+	"an_array":[
+		"Sometimes,",
+		"strings can appear",
+		"in a list."
+	],
+	"an_object":{
+		"one":"Sometimes,",
+		"two":"strings can also appear",
+		"three":"in an object."
+	}
 }

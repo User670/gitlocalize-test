@@ -1,0 +1,6 @@
+{
+  "language_name": "简体中文",
+  "some_translation_key": "这是一个测试句子。",
+  "some_html_tags": "在这段 <abbr title=\"超文本标记语言\">HTML</abbr> 代码段中，<b>标签</b>应保留原样，而<span class=\"myclass\">有些属性</span>（不是全部！）应该翻译。",
+  "some_replacement_strings": "鲍勃有 $1 枚金币，他可以购买 $2 瓶生命药水。"
+}

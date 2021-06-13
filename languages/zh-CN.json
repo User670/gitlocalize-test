@@ -1,6 +1,17 @@
 {
-  "language_name": "简体中文",
-  "some_translation_key": "这是一个测试句子。",
-  "some_html_tags": "在这段 <abbr title=\"超文本标记语言\">HTML</abbr> 代码段中，<b>标签</b>应保留原样，而<span class=\"myclass\">有些属性</span>（不是全部！）应该翻译。",
-  "some_replacement_strings": "鲍勃有 $1 枚金币，他可以购买 $2 瓶生命药水。"
+  "language_name": "English",
+  "some_translation_key": "This is a test sentence.",
+  "some_html_tags": "In this <abbr title=\"Hypertext Markup Language\">HTML</abbr> snippet, <b>tags</b> should be left intact, while <span class=\"myclass\">some attributes</span> (not all of them!) should be translated.",
+  "some_replacement_strings": "Bob has $1 coins, and he can buy $2 bottle(s) of health potion.",
+  "additional_strings": "这条字符串是在第一批翻译已经完成之后添加的。",
+  "an_array": [
+    "有时，",
+    "文本可能出现在",
+    "一个列表里。"
+  ],
+  "an_object": {
+    "one": "有时，",
+    "two": "文本也可能出现在",
+    "three": "一个物件里。"
+  }
 }
